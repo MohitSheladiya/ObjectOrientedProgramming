@@ -1,0 +1,10 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          28/03/21
+*/
+
+// I have done all the writing by myself and not copied anything from anywhere; I took referance from the notes provided by the professor.
+
+This week’s milestone and workshop parts were mainly focused on how the bondage of classes works together using various modules. Here, virtual functions were also used to make our mind clear about when and where to use them. Both the parts were to be made by analyzing individual diagrams given; this gave me an idea about how the programs were supposed to be constructed. This week also described briefly about templates; they are very simple but powerful in this language, the main logic behind it is that we need to declare data types as parameters which help in minimizing the use of similar code for distinct data types. As an example, if I define a function which swap values, but I do not know what type of values are to be passed by the user, in this case I will define a template which passes data type as a parameter so that it may recognize the value’s type and give the desired output. At last, talking about the difficulty I faced in this work was understanding why we used virtual functions; they are functions of the base class which are redefined in derived class. 

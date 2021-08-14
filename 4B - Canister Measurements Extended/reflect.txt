@@ -1,0 +1,8 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          21/02/14
+*/
+
+This week’s workshop had constructors and destructors which was something new. The first Lab contained programming for variables of canister, the program was easy to be made but the part I found challenging was the one with logic of canister. In detail, the two pour functions took a lot of my time, because every time I used my logic, I had one or more false output but later I overcame this problem. Everything else was same as in that of the previous workshop. Now talking about the DIY part, this was a 2 module, but easy program to be made. The part where I was lost was this one (theProgram("/-\\|/-\\|",….)) from the main file, I was confused how to read this “/-\\|/-\\|” because it had “\\” twice whereas, there should have been only one “\” but later after my research, I found out that one “\” is ignored by the complier and then everything went smoothly after. I learnt a lot about the constructors and destructors, mainly I learned how to make a program short by giving arguments to the constructors which made program’s syntax easy to understand.

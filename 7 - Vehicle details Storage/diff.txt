@@ -1,0 +1,14 @@
+In line number 56 of your output:
+The output should be:
+License plate: def-222
+               ^
+But your output is: 
+License plate: 
+                ^
+
+Unmatched character details:
+The character in column 17 is supposed to be:
+  [d] ASCII code(100)
+but you printed
+  [Empty Line] ASCII code(0)
+

@@ -1,0 +1,9 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          21/01/24
+*/
+
+
+Lab 1 Part 2 was to write program that consisted of some cstring.h functions. It was easy to complete this task but there were few functions that were a little challenging to complete. That functions were strnCmp() and strStr(), it was tricky but by the help to notes and internet I overcome the problem. The functions that I wrote are to be used in the future codes, instead of the library that is already defined by the visual studios. This part helped me understand the c++ language and its syntax quickly. At last, there were two modules and a file; first module was cstring.cpp that had all the functions (same as in the cstring.h library) that I created for the use in main method which is in the second module named cstringTester.cpp which was given in the question itself whose sole purpose was to see if the module cstring.cpp would be successful or not. The final file was cstring.h that had all the function calls or arguments in it; this was then called in the main module. All this was done using namespace sdds.

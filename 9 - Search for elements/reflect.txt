@@ -1,0 +1,10 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          28/03/21
+*/
+
+// I have done all the writing by myself and not copied anything from anywhere; I took referance from the notes provided by the professor.
+
+This week’s workshop consisted of templates which were very interesting to use because it made the program very short, they are very simple to make yet effective. In templates, we have to pass the type of data as parameter so that program would convert the data’s value into the desired type (at compile time). This would help us in manifold ways; to demonstrate, assume we have a sorting function that accepts numbers which will not accepts characters and vice versa; in this condition we would have to make two different functions which would make the code lengthy or else we could just make a template which recognizes the data type passed while calling the function so that we would only have to make a single function. Talking about the milestone, the two modules which were to be created consisted of read and  write functions(that is using istream and ostream) and giving the output based on it. This made my mind clearer how to use that type of functions in future.

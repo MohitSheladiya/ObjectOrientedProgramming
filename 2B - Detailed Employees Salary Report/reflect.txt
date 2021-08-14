@@ -1,0 +1,9 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          21/02/01
+*/
+
+
+This workshop was very interesting as it contained in-dept knowledge about how a file is processed in C++. Both Lab and DIY were much were similar to each other, due to which most functions were same in both. I learned a lot about allocating a struct and at the end when everything is accomplished how to delete them or deallocate them. The most important part I believe of this workshop was the ‘load’ function because a little mistake and the program shows errors which has no specific meaning, once ‘load’ function was completed everything was easy because ‘display’ and ‘read’ are the most basic part; ‘display’ function’s task was to display the loaded value as per the question required us to. At last, the ‘read’ function consisted of how the string or a number is expected to be read. Reading of the string at first was tricky but I overcame the problem by reading weekly content provided by the professor. I think that this workshop also made my mind clear about how functions are connected to each other. 

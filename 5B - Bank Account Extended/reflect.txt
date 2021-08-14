@@ -1,0 +1,8 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          21/02/21
+*/
+
+Unlike any other workshop, this workshop was unique because it contained operators overloading, one of the best functions that makes a program very easy. I got a clear idea about how to use all the operators. There are various type of operators, we used most of them in this workshop, types include arithmetic, assignment, unary, relational, relational, logical, insertion and extraction .The operators that we can use were + - * / % = += -= *= /= %= ++ -- + - == < > <= >= != && || ! << >>. The part I found challenging was the one with insertion and extraction, this took me a while to understand in order to do so I had to go through notes more than three times, later I found out how to use current object in such condition. After this, I finished the first part, part B was very easy compared to the first part. That all about this week’s workshop. 

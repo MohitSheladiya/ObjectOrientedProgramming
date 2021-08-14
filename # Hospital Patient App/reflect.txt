@@ -1,0 +1,9 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          09/04/21
+*/
+
+The final project was the combination of all the work done by me in the whole OOP244 course; I learned a lot about how to work on a big project assigned and maintain it to make it work with more specifications. Moreover, I used all the knowledge gained by attending the lectures and reading the material provided by the professor. This project consists of various modules which manages different pillars of the program; basically, this program manages the data of a hospital’s patients. It adds the type of patients (max 100) from a csv.bak file to csv file and even asks the user if there is any patient(add). 
+My overall experience with OOP244 was great; I gained knowledge about basic object-oriented programming. I learnt how to design classes with tools that can be dynamically allocated, create member functions and when to use them. I also learned how to design various classes into classes or also known as inheritance ,and polymorphic objects that can help reuse certain code inside the program. I learned how to use stream objects (i.e. istream and ostream) because it plays an important role in making a code that have interaction between the program and the user. At last, the main thing amongst all of this is that I have learned how to debug, as it is the most important thing to learn because without it no program can be developed. To conclude, I would like to thank our professor Aras, without whom this experience would not be the same. 

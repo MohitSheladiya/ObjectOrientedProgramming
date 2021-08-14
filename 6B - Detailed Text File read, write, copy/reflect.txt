@@ -1,0 +1,7 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          16/03/21
+*/
+In this workshop I learnt about derived classes and derived functions, which are used to gain properties of an existing class. Here, the main class which gets the properties of the other is called as base class, whereas the other is called as derived class. The lab part of this workshop was a bit tricky because it contained usage of files. We had to load and save a file’s data in newly created text file in specific order. Same was to be done in the DIY part but we had to play with the numbers in .csv file. I also learnt how and when to use private (without any syntax), public and protected keyword in a class. This week’s class also taught us various types of syntaxes which helped me understand how to use and declare a function from one class to another. At last, the sequence of construction and destruction was made clear because of the quiz and the wonderful lecture by professor. 

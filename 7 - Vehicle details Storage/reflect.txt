@@ -1,0 +1,8 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          21/03/21
+*/
+
+In this workshop, we had to play with derived classes which was fun because it made my work a lot easier than usual. A base class’s properties are been inherited by a derived class using an access mode word (public, private and protected). To be more specific, I used “MotorVehicle” as a base class (parent class) for the creation of “Truck” class which is a derived class (child class), here we used public keyword so that we can access public functions of MotorVehicle to get the desired output. In milestone 1, I had to define various operators in order to finish the program, these operators were not handful but easy to define. The function in which I faced problem was getcstr(), in this three-argument function I found difficulty in getline() in which I forgot to enter variable “delimiter”. Because of this, the getcstr() was not accepting the user input given in the question.
